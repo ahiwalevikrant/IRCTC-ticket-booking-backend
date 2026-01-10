@@ -1,0 +1,28 @@
+[
+  {
+     "user_id": "1233",
+    "name": "Vikrant Ahiwale",
+    "hashedPassword": "abc123233",
+    "tickets_booked": [
+      {
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "date_of_travel": "2026-01-01T18:30:00Z",
+        "train": {
+          "train_id": "121e",
+          "train_no": 12222,
+          "seats": [
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0]
+          ],
+          "stations": {
+            "Bangalore": "13:50:00",
+            "Mumbai": "20:00:00"
+          }
+        }
+      }
+    ]
+  }
+]

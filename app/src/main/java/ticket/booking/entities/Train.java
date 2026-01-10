@@ -16,4 +16,5 @@ public class Train {
     private Map<String, Time> stationsTimes;
 
     private List<String> stations;
+
 }
